@@ -1,0 +1,29 @@
+{
+  "name": "webstorage-api-json",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatianaMaksimova/webstorage-api-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatianaMaksimova/webstorage-api-json/issues"
+  },
+  "homepage": "https://github.com/TatianaMaksimova/webstorage-api-json#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@parcel/babel-plugin-transform-runtime": "^2.4.1",
+    "parcel": "^2.4.1"
+  }
+}

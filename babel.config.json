@@ -1,0 +1,5 @@
+{
+    "plugins": [
+        "@parcel/babel-plugin-transform-runtime"
+    ]
+}
