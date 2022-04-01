@@ -1,6 +1,7 @@
 import throttle from 'lodash.throttle';
-import '../css/common.css';
 import '../css/feedback-form.css';
+
+console.log('Сообщение: Консоль работает!');
 
 const STORAGE_KEY = 'feedback-msg';
 

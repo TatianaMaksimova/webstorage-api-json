@@ -1,5 +1,5 @@
 {
     "plugins": [
-        "@parcel/babel-plugin-transform-runtime"
+        "@emotion/babel-plugin"
     ]
 }
