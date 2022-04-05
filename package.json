@@ -21,7 +21,6 @@
   "homepage": "https://github.com/TatianaMaksimova/webstorage-api-json#readme",
   "devDependencies": {
     "@babel/core": "^7.17.8",
-    "@babel/preset-flow": "^7.16.7",
     "@emotion/babel-plugin": "^11.7.2",
     "@parcel/babel-plugin-transform-runtime": "^2.4.1",
     "parcel": "^2.4.1"
